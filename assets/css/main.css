@@ -767,7 +767,8 @@ section,
   }
 
 .bg-gradient-1{
-margin-top: -5em;
+position: absolute;
+top: -17em;
 
 
 }
